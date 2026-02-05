@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>I Knew It 😌</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+  <div class="card">
+    <img src="assets/cheeks.gif" width="200">
+
+    <h1>I KNEW IT 😏💖</h1>
+    <p>
+      I knew you’d always choose YES,  
+      my sweet little boy 🥰  
+      <br><br>
+      Did you try the NO, idiot?  
+      I doubt that 😌
+    </p>
+
+    <video width="250" autoplay loop muted>
+      <source src="assets/love.mp4" type="video/mp4">
+    </video>
+  </div>
+</body>
+</html>
